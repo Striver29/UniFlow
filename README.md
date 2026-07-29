@@ -222,7 +222,7 @@ uniflow/
 ├── db/
 │   └── policies.sql                    Supabase Row Level Security policies
 ├── package.json                        backend deps (Express, Playwright, Groq, HF, Clerk)
-└── CoursePlanner/                     React + TypeScript front-end
+└── CoursePlanner/                      React + TypeScript front-end
     ├── src/
     │   ├── pages/                      route-level views
     │   │   ├── AdminPortal.tsx         moderator queue (admin-only)
