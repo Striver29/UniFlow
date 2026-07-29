@@ -81,7 +81,7 @@ app reopens exactly where you left it.
 │  - Reviews UI            │         │   - /api/syllabi/*       │
 │  - GPA calculator        │         │   - HF moderation        │
 └──────────┬───────────────┘         │   - Groq Llama 3.3       │
-           │                         └──────────┬───────────────┘
+           │                         └───────────┬──────────────┘
            │           Clerk auth                │
            │     (JWT verified on both)          │
            ▼                                     ▼
